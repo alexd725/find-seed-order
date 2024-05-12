@@ -36,7 +36,7 @@ def generate_phrases_and_addresses(first_seven):
             print('Valid seed phrase found:', ' '.join(phrase))
             print('Derived Address:', address)
 
-            if address == "0x41099741684156f2bF13a732e73061f3611bbc73":
+            if address == "your public address here":
                 break
     
     # Output the count of valid mnemonics found
